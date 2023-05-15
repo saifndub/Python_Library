@@ -1,2 +1,12 @@
 # Python_Library
-Pandas, Numpy, Keras / PyTorch, Scipy, OpenCV, Seaborn, Scikit-Learn, Tensorflow, Matplotlib.
+
+1. Pandas, 
+2. Numpy, 
+3. Keras,
+3. PyTorch, 
+4. Scipy, 
+5. OpenCV, 
+6. Seaborn, 
+7. Matplotlib,
+8. Tensorflow,
+9. Scikit-Learn, 
