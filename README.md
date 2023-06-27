@@ -10,3 +10,8 @@
 7. Matplotlib,
 8. Tensorflow,
 9. Scikit-Learn, 
+
+
+For icon: 
+https://iconscout.com/
+https://www.svgrepo.com/
