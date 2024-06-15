@@ -5,7 +5,7 @@
 3. Keras,
 3. PyTorch, 
 4. Scipy, 
-5. OpenCV, 
+5. OpenCV*,
 6. Seaborn, 
 7. Matplotlib,
 8. Tensorflow,
@@ -14,4 +14,5 @@
 
 For icon: 
 https://iconscout.com/
+<br>
 https://www.svgrepo.com/
