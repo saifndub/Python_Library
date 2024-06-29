@@ -12,7 +12,4 @@
 9. Scikit-Learn, 
 
 
-For icon: 
-https://iconscout.com/
-<br>
-https://www.svgrepo.com/
+
